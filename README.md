@@ -13,7 +13,7 @@ Séparément, il y a un accès à la base de données via phpMyAdmin.
 2. Clonez le dépôt de l'application à partir de GitHub :
 
 ```shell
-git clone https://github.com/Daudeuf/docker-sae203.git
+git clone https://github.com/ClemLy/docker-sae203.git
 ```
 
 3. Accédez au répertoire de l'application :
