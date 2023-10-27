@@ -1,4 +1,4 @@
-# Docker SAÉ 2.03
+# BlackMusic
 
 Nous avons créé une plateforme permettant l'écoute de musique nommée Blackmusic. Ce projet a été réalisé par notre équipe avec pour objectif de fournir un service d'écoute de musique en utilisant l'API YouTube.
 
