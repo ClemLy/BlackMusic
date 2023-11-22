@@ -19,7 +19,7 @@ git clone https://github.com/ClemLy/BlackMusic.git
 3. Accédez au répertoire de l'application :
 
 ```shell
-cd docker-sae203
+cd BlackMusic
 ```
 
 4. Compilez l'image Docker à l'aide de la commande suivante :
